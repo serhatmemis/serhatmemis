@@ -5,15 +5,18 @@
 I am a Mathematics MSc candidate at Boğaziçi University, working at the
 intersection of mathematical problem solving, AI evaluation, and product
 development. I enjoy turning hard, ambiguous problems into clear systems —
-whether that means grading model outputs, reasoning about a graph, or shipping
-a product that people actually use.
+whether that means evaluating model outputs, reasoning about graphs, or
+building useful products.
 
 ## Currently
 
 - Pursuing an MSc in Mathematics at Boğaziçi University
 - Exploring graph theory and combinatorial optimization
 - Building **Pace**, an independent cross-platform productivity app
-- Working on AI evaluation and model-training workflows (xAI, Outlier)
+- Working on AI evaluation projects through Outlier
+
+Previously worked on AI evaluation and model-training workflows through a
+contract with xAI (Jan–May 2026).
 
 ## Areas
 
